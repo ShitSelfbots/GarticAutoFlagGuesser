@@ -1,0 +1,6 @@
+{
+  "clientToken"         : "",
+  "automaticRestart   " : true,
+  "guessAfterCountdown" : true,
+  "guessDelay"          : 1
+}
