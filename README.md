@@ -1,3 +1,5 @@
+> **Note**
+> Keep in mind, **This isnt very accurate, but still works**!
 # `GARTICBOT AUTOFLAG GUESSER` `🚩` 
 ```
 - Automatic Restarts
