@@ -1,0 +1,2 @@
+# GarticAutoFlagGuesser
+Guesses GarticBOT Flags
