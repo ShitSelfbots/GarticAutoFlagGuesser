@@ -33,6 +33,7 @@ def on_message(resp):
                      if 'LEVEL' in message['embeds'][0]['author']['name']:
                          print('[GARTIC] | Gartic Level Found')
                          try:
+                           time.sleep(jsonData['guessDelay'])
                            gartic.client.sendMessage(message['channel_id'], flagpy.identify(message['embeds'][0]['image']['url']).replace('The', ''))
                            gartic, print('[GARTIC] | Sent Guess')
                          except:
